@@ -2,7 +2,7 @@ import socket
 import threading
 import binascii
 import asyncio
-from websocket import create_connection
+from websocket import create_connection # websockets package
 import time
 import json
 
